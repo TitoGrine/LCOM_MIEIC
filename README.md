@@ -13,8 +13,8 @@ Code for Lab classes and Final Project of Computer Laboratory - MIEIC, FEUP
 
 ### Authors
 
-* **Bernardo Santos** - [bernas670](https://github.com/bernas670)
-* **Tito Griné** - [TitoGrine](https://github.com/TitoGrine)
+* **Bernardo Manuel Esteves dos Santos** - [bernas670](https://github.com/bernas670)
+* **Tito Alexandre Trindade Griné** - [TitoGrine](https://github.com/TitoGrine)
  
 ----------
 
