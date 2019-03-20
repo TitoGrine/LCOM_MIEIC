@@ -21,21 +21,21 @@ Code for Lab classes and Final Project of Computer Laboratory - MIEIC, FEUP
 ### Labs
 
   #### Lab 2 - Timer
-  > Grade: ?/100
+  > Grade: 76/100
 
   #### Lab 3 - Keyboard
-  > Grade: ?/100
+  > Grade: 97/100
   
   #### Lab 4 - Mouse
-  > Grade: ?/100
+  > Grade: 87/100
 
   #### **Lab 5 - Graphics (VBE)**
-  > Grade: ?/100
+  > Grade: 85/100
 
 ----------
 
 ### Project - PaintMix
-> Grade: ?/20 <br>
+> Grade: 18/20 <br>
 
 #### **Video**
 > Video demonstration can be viewed [here](https://www.youtube.com/watch?v=7FLcOkK5lnE&t=84s).
