@@ -1,4 +1,4 @@
-## **LCOM_MIEIC**
+## **LCOM_Project**
 
 Code for Lab classes and Final Project of Computer Laboratory - MIEIC, FEUP
 
